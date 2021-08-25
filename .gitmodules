@@ -1,24 +1,24 @@
 [submodule "tamzen-font"]
 	path = tamzen-font
-	url = https://github.com/sunaku/tamzen-font.git
+	url = git@github.com:sunaku/tamzen-font.git
 [submodule "Termsyn-Powerline"]
 	path = Termsyn-Powerline
-	url = https://github.com/Anarky/Termsyn-Powerline.git
+	url = git@github.com:Anarky/Termsyn-Powerline.git
 [submodule "jmk-x11-fonts"]
 	path = jmk-x11-fonts
-	url = https://github.com/nikolas/jmk-x11-fonts.git
+	url = git@github.com:nikolas/jmk-x11-fonts.git
 [submodule "gohufont-ttf"]
 	path = gohufont-ttf
-	url = https://github.com/koemaeda/gohufont-ttf
+	url = git@github.com:koemaeda/gohufont-ttf
 [submodule "ttf-iosevka-term"]
 	path = ttf-iosevka-term
 	url = https://aur.archlinux.org/ttf-iosevka-term.git
 [submodule "scientifica"]
 	path = scientifica
-	url = https://github.com/NerdyPepper/scientifica.git
+	url = git@github.com:NerdyPepper/scientifica.git
 [submodule "Font-Awesome"]
 	path = Font-Awesome
-	url = https://github.com/FortAwesome/Font-Awesome.git
+	url = git@github.com:FortAwesome/Font-Awesome.git
 [submodule "siji"]
 	path = siji
-	url = https://github.com/stark/siji.git
+	url = git@github.com:stark/siji.git
