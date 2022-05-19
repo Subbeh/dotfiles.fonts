@@ -22,3 +22,6 @@
 [submodule "siji"]
 	path = siji
 	url = git@github.com:stark/siji.git
+[submodule "SFMono-Nerd-Font-Ligaturized"]
+	path = SFMono-Nerd-Font-Ligaturized
+	url = git@github.com:shaunsingh/SFMono-Nerd-Font-Ligaturized.git
